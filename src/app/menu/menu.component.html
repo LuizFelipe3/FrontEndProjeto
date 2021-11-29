@@ -1,0 +1,24 @@
+<div class="cont">
+    <div class="menu">
+        <header class="barraNav">
+            <img id="imgLogo" src="../../assets/Imagem/ac2732c072c093d289d78699d8641968.jpg" alt="Atacadaotech">
+        </header>
+    
+            <h6>CATEGORIAS</h6>
+            <ul>
+                <li><a [routerLink]="['/audio']" routerLinkActive="active">Audio</a></li>
+                <li><a [routerLink]="['/automotivo']" routerLinkActive="active">Automotivo</a></li>
+                <li><a [routerLink]="['/celulares']" routerLinkActive="active">Celulares</a></li>
+                <li><a [routerLink]="['/eletrodomesticos']" routerLinkActive="active">Eletrodomesticos</a></li>
+                <li><a [routerLink]="['/eletroportateis']" routerLinkActive="active">Eletroportateis</a></li>
+                <li><a [routerLink]="['/esporte-e-lazer']" routerLinkActive="active">Esporte e Lazer</a></li>
+                <li><a [routerLink]="['/games-e-consoles']" routerLinkActive="active">Games e Consoles</a></li>
+                <li><a [routerLink]="['/moveis']" routerLinkActive="active">Moveis</a></li>
+                <li><a [routerLink]="['/notebooks']" routerLinkActive="active">Notebooks</a></li>
+                <li><a [routerLink]="['/televisao-video']" routerLinkActive="active">Televisao Video</a></li>
+            </ul>
+    </div>
+    <div class="produtos">
+        <router-outlet></router-outlet>
+    </div>
+</div>

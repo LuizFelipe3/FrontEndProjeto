@@ -1,0 +1,14 @@
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a [routerLink]="['/inicio']" routerLinkActive="active">Inicio</a></li>
+            <li class="breadcrumb-item" [routerLink]="['/televisaovideo']" routerLinkActive="active">atacadaotech de Televisaovideo</li>
+        </ol>
+    </nav>
+</div>
+<div class="container justify-content-arond">
+    <div class="item-lista" *ngFor="let atacadao of atacadaotech">
+        <img [src]="atacadao.pathImage" alt="imagem Produto">
+        <h4> {{atacadao.name}} </h4>
+    </div>
+</div>
