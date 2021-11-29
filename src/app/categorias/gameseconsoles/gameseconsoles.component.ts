@@ -10,52 +10,52 @@ export class GameseconsolesComponent implements OnInit {
   [
     
 {
-  pathImage: 'assets/GamesConsoles/ControleAndroid.jpg',
+  pathImage: 'assets/GameseConsoles/ControleAndroid.jpg',
   name: ' Controle Android',
   
 
 },{
-   pathImage: 'assets/GamesConsoles/ControleNitendo.jpg',
+   pathImage: 'assets/GameseConsoles/ControleNitendo.jpg',
   name: ' Controle Nitendo',
   
 
 },{
-  pathImage: 'assets/GamesConsoles/ControlePS3.jpg',
+  pathImage: 'assets/GameseConsoles/ControlePS3.jpg',
   name: ' Controle PS3',
   
 
 },{
-  pathImage: 'assets/GamesConsoles/ControlePS4.jpg',
+  pathImage: 'assets/GameseConsoles/ControlePS4.jpg',
   name: ' Controle PS4',
   
 
 },{
-   pathImage: 'assets/GamesConsoles/ControlePS5.jpg',
+   pathImage: 'assets/GameseConsoles/ControlePS5.jpg',
   name: ' Controle PS5',
   
 
 },{
    
-   pathImage: 'assets/GamesConsoles/FarcryPS4.jpg',
+   pathImage: 'assets/GameseConsoles/FarcryPS4.jpg',
   name: ' Farcry PS4',
   
 
 },{
-   pathImage: 'assets/GamesConsoles/Fifa22PS5.jpg',
+   pathImage: 'assets/GameseConsoles/Fifa22PS5.jpg',
   name: ' Fifa 22 PS5',
   
 
 },{
-   pathImage: 'assets/GamesConsoles/GTAVPS3.jpg',
+   pathImage: 'assets/GameseConsoles/GTAVPS3.jpg',
   name: ' GTA V PS3',
   
 
 },{
-   pathImage: 'assets/GamesConsoles/Volante Gamer.jpg',
-  name: ' GTA V PS3',
+   pathImage: 'assets/GameseConsoles/VolanteGamer.jpg',
+  name: 'Volante Gamer',
 
 },{
-  pathImage: 'assets/GamesConsoles/XboxSeriesX.jpg',
+  pathImage: 'assets/GameseConsoles/XboxSeriesX.jpg',
   name: ' Xbox Series X',
 
 

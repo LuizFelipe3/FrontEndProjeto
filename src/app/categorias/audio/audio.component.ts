@@ -25,7 +25,7 @@ export class AudioComponent implements OnInit {
      
 
 },{
-      pathImage: 'assets/Audio/FoneOuvido.jpg',
+      pathImage: 'assets/Audio/FoneOuvido.jpeg',
      name: ' Fone Ouvido',
      
 

@@ -51,8 +51,8 @@ export class EsporteelazerComponent implements OnInit {
   
 
 },{
-   pathImage: 'assets/EsporteeLazer/SakateInfantil.jpg',
-  name: ' Patinete',
+   pathImage: 'assets/EsporteeLazer/SkateInfantil.jpg',
+  name: 'Skate infantil',
 
 },{
    pathImage: 'assets/EsporteeLazer/TenisCorrida.jpg',

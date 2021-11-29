@@ -34,10 +34,10 @@ const routes: Routes = [
   path: 'eletroportateis', component: EletroportateisComponent 
  },
  {
-  path: 'esporteeLazera', component: EsporteelazerComponent 
+  path: 'esporte-e-lazer', component: EsporteelazerComponent 
  },
  {
-  path: 'gameseConsoles', component: GameseconsolesComponent
+  path: 'games-e-consoles', component: GameseconsolesComponent
  },
  {
   path: 'moveis', component: MoveisComponent 

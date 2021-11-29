@@ -30,7 +30,7 @@ export class AutomotivoComponent implements OnInit {
    
 
 },{
-    pathImage: 'assets/Automotivo/KitCapaChuva.jpg',
+    pathImage: 'assets/Automotivo/kitCapaChuva.jpg',
    name: ' Kit Capa Chuva',
    
 
